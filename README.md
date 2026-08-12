@@ -24,7 +24,7 @@
 
 <div align="center">
 
-### 🔗 [diet-recommendation-system-2drzcfznrwqxxtr2ou6vny.streamlit.app](https://diet-recommendation-system-2drzcfznrwqxxtr2ou6vny.streamlit.app/)
+### 🔗 [diet-recommendation-system-
 
 *Fill in your health profile → Instantly get your AI-recommended diet plan*
 
