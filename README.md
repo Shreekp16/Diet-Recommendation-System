@@ -38,7 +38,7 @@ Most diet plans fail because they are **generic** — designed for the average p
 
 Two people with the same weight-loss goal can need completely different nutrition strategies depending on age, activity level, blood sugar, and cholesterol. **Arogya Plan AI** solves this by training a K-Nearest Neighbors model on diverse health profiles to match users with their most suitable diet category.
 
-| Without Arogya Plan AI | With Arogya Plan AI ||---|---|| Generic meal plans | Personalized to your exact health profile || Ignores medical indicators | Sugar & cholesterol-aware || Same advice for everyone | Goal-specific: Loss / Maintain / Gain || Manual guesswork | Instant ML-powered prediction |
+| Without NutriPredict AI | With NutriPredict AI ||---|---|| Generic meal plans | Personalized to your exact health profile || Ignores medical indicators | Sugar & cholesterol-aware || Same advice for everyone | Goal-specific: Loss / Maintain / Gain || Manual guesswork | Instant ML-powered prediction |
 
 ---
 
@@ -172,7 +172,7 @@ Per-class breakdown (test set):
 
 <p align="center">
 
-<img src="assets/Project Screenshots/desktop view.png" width="48%" alt="Arogya Plan AI Input Screen" /><img src="assets/Project Screenshots/desktop-results 1.png" width="48%" alt="Arogya Plan AI Results Dashboard" />
+<img src="assets/Project Screenshots/desktop view.png" width="48%" alt="Arogya Plan AI Input Screen" /><img src="assets/Project Screenshots/desktop-results 1.png" width="48%" alt="NutriPredict AI Results Dashboard" />
 
 </p>
 
