@@ -24,8 +24,8 @@
 
 <div align="center">
 
-### 🔗 [diet-recommendation-system-
 
+### 🔗 [diet-recommendation-system-qvrbhfmbtkcv9jklcxwfku.streamlit.app](https://diet-recommendation-system-qvrbhfmbtkcv9jklcxwfku.streamlit.app/)
 *Fill in your health profile → Instantly get your AI-recommended diet plan*
 
 </div>
